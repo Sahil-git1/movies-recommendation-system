@@ -103,4 +103,3 @@ We welcome contributions! Here's how you can help:
 4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
 5. 🔃 Open a Pull Request
 
-![Contributing](https://images.unsplash.com/photo-1529704693195-d791b92379b7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
